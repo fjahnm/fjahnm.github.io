@@ -24,7 +24,7 @@ The system includes authentication, administrative dashboards, company managemen
 - JWT
 - PM2
 - REST APIs
-- 
+
 ---
 
 ### Expense Reporting System
